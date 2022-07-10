@@ -23,6 +23,28 @@ From this, We can conclude most of the trips are of very short duration. This is
 
 This visualization is similar to visualization 1, but broken down by gender. The bahavior is basically the same, for all three data categories, most of the trips are taking five to ten minutes. Also, we can see that most of the trips are done by men, meaning that most of our customers are males.
 
+### Visualization 3 - Trips by weekday for each hour
+
+![vis_03](/imgs/vis_03.png)
+
+This visualization is helping us to understand how much trips are completed by hour. We can see a pattern here. From Monday to Friday, we can see mpst of the trips are done at the same times. From 7 to 9 am and from 5 to 7 pm. This are working hours. This means our customers are considering bike as mean of transportation. 
+During the weekends, we can see a similar behavrior on Saturdays and Sundays. We have an evenly distrubution of trips from 10 am to 7 pm. Saturday is busiests than Sundays. We can conclude that our customers are also using bike as a mean of transportation during their weekend plans. 
+
+### Visualization 4 - Trips by gender
+
+![vis_04](/imgs/vis_04.png)
+
+This is similar to visualization 3, but broken down by gender. This confirms our conclusions so far. Most of our customers are men. All our customers are traveling on well defined times from Monday to Friday (they are trying to reach their work places). On weekends, Saturday is a good day for the business. Busy hours are from 10 am to 7 pm.
+
+### Visualization 5 - User trips by gender
+
+![vis_05](/imgs/vis_05.png)
+
+This one is similar to visualization 3 and 4, but it is segragating data by user type: "Customer" or "Subscriber". The "Customer" segment is showing a flat behavior. It is very hard to say what are the days with more activity. This is different for the "Subscriber" segment. Behavior between women and men is very similar. Thursday is the day with the highest activity. 
+
+### Extra visualization
+
+
 
 
 =======
