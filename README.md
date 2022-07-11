@@ -42,7 +42,26 @@ This is similar to visualization 3, but broken down by gender. This confirms our
 
 This one is similar to visualization 3 and 4, but it is segragating data by user type: "Customer" or "Subscriber". The "Customer" segment is showing a flat behavior. It is very hard to say what are the days with more activity. This is different for the "Subscriber" segment. Behavior between women and men is very similar. Thursday is the day with the highest activity. 
 
-### Extra visualization
+### Extra visualizations 6 and 7 - Starting and Ending points
+
+ Top starting points
+
+ ![vis_06](/imgs/vis_06.png)
+
+ Top ending points
+
+![vis_07](/imgs/vis_07.png)
+
+These visualizations are showing the top starting and ending points for all trips. Taking this as a starting point, we can start thinking why these stations are the most popular. Are they close to a train station? close to any other popular spots such as restaurants or any other entertainment centers? It grabs my attention that the top starting point and the top ending point are the same. 
+
+### Extra visualization 8 - Customers age groups
+
+![vis_08](/imgs/vis_08.png)
+
+This visualization is showing the different age groups for all our customers. Our largest customer groups were born in the 80s and 90s. This is important to know the preferences of our customers. It is also important to know their priorities and the stage of their lives. 
+
+
+
 
 
 
