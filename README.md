@@ -60,20 +60,23 @@ These visualizations are showing the top starting and ending points for all trip
 
 This visualization is showing the different age groups for all our customers. Our largest customer groups were born in the 80s and 90s. This is important to know the preferences of our customers. It is also important to know their priorities and the stage of their lives. 
 
+## Summary and conclusion
+After building and analyzing these visualizations, some of our key findings are:
+1. Number of customer and number of suscribers
+2. Number of female customers Vs. number of male customers
+3. Hours of the day with most trips
+4. Days with most trips
+5. Trips by Gender
+6. Stations with most trips (starting and ending points)
 
+Although it is true these metrics show the behavior of the business for New York city, we can get some good conclusions that can apply for any major city. We should ellaborate some answers for questions like:
+1. Customer gender: Women Vs Men - We have learned that our largest customer base are men, but why? Is it because biking is not a convenient mean of transportation for women? is it because of security? Does biking represents a high risk transportation method for women?
+2. Trips hours and duration: For business days, most of the trips take place during well defined hours. For weekends, we can see an even distribution, being Sundays the days with the lowest activity. 
+3. Subscribers Vs Customers - The analysis has confirmed most of our users are subscribers, which makes sense. Why the customer group has not made the decision to get a subscription? Are they not frequent users? do they find the cost too high? This is a good start. Finding answer to these questions may help us to increase our subscriber base.
 
+To dig deeper into this analysis, we ma create different visualizations, depending on the available data:
+1. Complaints - What are the biggest issues our customers are facing. To solve this, it will be important to classify the data and create categories for the complaints.
+2. Months with more activity - The data is already there. We just need to create one single source file for a whole year. This is important because we would be able to determine the months with the highest acitvity. This can help us to plan maintenance calendars and procurement calendars. 
+3. Subscription dates - How many of our subscribers are returning? How many of them are first time subscribers? It is important to determine this. Having a high rate of retuning customer is paramount to keep a good customer base. 
 
-
-
-
-=======
-
-Overview of the statistical analysis:
-The purpose of the analysis is well defined. (5 pt)
-
-Results
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-
-Summary:
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Getting answers to all questions will provide a good idea of the components that we should be considering when opening a bike sharing business. Asking the right questions will help us to take good decisions. 
